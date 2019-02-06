@@ -8,3 +8,5 @@ This is achieved by employing time series decomposition and using robust statist
 This is rooted to the fact that trend extraction in the presence of anomalies is non-trivial for anomaly detection.
 
 The figure below shows large global anomalies present in the raw data and the local (intra-day) anomalies that S-H-ESD exposes in the residual component via our statistically robust decomposition technique.
+
+![screen shot 2019-02-06 at 2 51 08 pm](https://user-images.githubusercontent.com/15687230/52369402-ad83eb00-2a1e-11e9-895f-20e683b6ce86.png)
